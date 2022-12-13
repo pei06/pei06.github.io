@@ -7,7 +7,7 @@ importance: 3
 category: Research Projects
 ---
 
-This is the first main research project that I did during my undergraduate years. This is also the fundamental code for joystick readings and hpatic feedbacks in the iCROSS project. The challenge of this project was to figure out the meanings of the Unity code provided by 3D systems with nearly no documentation.
+This is the first individual research project I did during my undergraduate studies. It is also the foundation for joystick readings and haptic feedback in the iCROSS project. The challenge of this project was to figure out the meanings of the Unity code provided by 3D systems with nearly no documentation.
 
 If you are interested in the code, here is the Github repo: [Repo](https://github.com/pei06/unity_touch)
 
