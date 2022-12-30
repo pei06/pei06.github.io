@@ -12,6 +12,7 @@ The design and evaluation of the infant Cardiac Robotic Surgical System (iCROSS)
 By developing a force rendering algorithm and post-processing the joystick readings using Unity, I successfully overlapped the workspaces for teleoperation and provided haptic feedback. Regarding collision avoidance, I implemented a rapid collision detection algorithm that could run at 60 Hz using LabVIEW. The algorithm is a modified version of oriented bounding boxes (OBB), which differs from the original version by a more detailed bounding mechanism using different geometries and constructing several conditional statements to increase calculation speed. These promising results led to our publication in IROS 2022 and consolidated my interest in algorithms used in human-robot interaction.
 
 Publication Link: [IROS 2022](https://ieeexplore.ieee.org/document/9981503?fbclid=IwAR33YrXJFXWVlRh2ZS0LvqCIAdVxeTQPoBSbUfLo0q9ULANQs3EhmmIph8A)
+
 Demo video at: [Demo](https://cwchenee.wixsite.com/nasa-ntuee/microsurgical-robots)
 
 
