@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research\Course Projects
+title: Projects
 permalink: /Projects/
-description: Selected projects from my past experience.
+description: Research and Course Projects.
 nav: true
 nav_order: 2
 display_categories: [Research Projects, Course Projects]
