@@ -5,13 +5,15 @@
       value: Pei-An Hsieh
     - name: Languages
       value: Mandarin Chinese, English
+    - name: Programming Languages
+      value: C/C++/C#,Python,LabVIEW,MATLAB/Simulink
 
 - title: Education
   type: time_table
-  contents:
+  contents:              
     - title: B.S.
       institution: National Taiwan University (NTU)
-      year: 2022
+      year: 2018-2022
       description:
         - title: Department of Electrical Engineering
           contents:
@@ -22,11 +24,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Student Researcher
-      institution: Mechatronics and Controls Lab, UCLA
-      year: 2022
+    - title: Researcher
+      institution: Mechatronics and Controls Lab, UCLA & NASA Lab, NTU
+      year: 2022-2023
       description:
-        - "Advisor: Prof. Tsu‑Chin “T‑C.” Tsao"
+        - "Advisor: Prof. Tsu‑Chin “T‑C.” Tsao & Prof. Cheng‑Wei Chen"
         - The Development of a Qt‑Ethercat Software System 
         
     - title: Undergraduate Researcher

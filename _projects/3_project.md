@@ -13,7 +13,7 @@ By developing a force rendering algorithm and post-processing the joystick readi
 
 Publication Link: [IROS 2022](https://ieeexplore.ieee.org/document/9981503?fbclid=IwAR33YrXJFXWVlRh2ZS0LvqCIAdVxeTQPoBSbUfLo0q9ULANQs3EhmmIph8A)
 
-Demo video at: [Demo](https://cwchenee.wixsite.com/nasa-ntuee/microsurgical-robots)
+Demo video at: [Demo](https://www.youtube.com/watch?v=RACPwt9ZMvE)
 
 
 <div class="row">
