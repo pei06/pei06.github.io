@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: 謝沛諳 | Penn Robotics MSE
+subtitle: 謝沛諳 | Robotics MSE @ Penn
 
 profile:
   align: right

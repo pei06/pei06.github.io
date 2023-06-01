@@ -6,7 +6,7 @@
     - name: Languages
       value: Mandarin Chinese, English
     - name: Programming Languages
-      value: C/C++/C#,Python,LabVIEW,MATLAB/Simulink
+      value: C/C++/C#, Python, LabVIEW, MATLAB/Simulink...
 
 - title: Education
   type: time_table
@@ -19,13 +19,14 @@
           contents:
             - "GPA: 4.09/4.3 (3.94/4.0)"
             - "Rank in Class: 34/196 (17%)"
+            - "Related Courses: Robotics, Algorithms, Data Structure, Control Systems, Intermediate Dynamics, Convex Optimization, StochasticControl"
 
 
 - title: Experience
   type: time_table
   contents:
     - title: Researcher
-      institution: Mechatronics and Controls Lab, UCLA & NASA Lab, NTU
+      institution: MacLab, UCLA & NASA Lab, NTU
       year: 2022-2023
       description:
         - "Advisor: Prof. Tsu‑Chin “T‑C.” Tsao & Prof. Cheng‑Wei Chen"
