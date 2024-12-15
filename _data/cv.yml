@@ -10,27 +10,42 @@
 
 - title: Education
   type: time_table
-  contents:              
-    - title: B.S.
+  contents:
+    - title: M.S.E in Robotics
+      institution: University of Pennsylvania (Penn)
+      year: 2023-2025
+      description:
+        - title: GRASP Lab
+          contents:
+            - "GPA: 4.0/4.0"
+            - "Related Courses: Learning in Robotics, Control and Optimization with Applications in Robotics, Linear Systems Theory, Machine Learning"
+              
+    - title: B.S. in Electrical Engineering
       institution: National Taiwan University (NTU)
       year: 2018-2022
       description:
         - title: Department of Electrical Engineering
           contents:
             - "GPA: 4.09/4.3 (3.94/4.0)"
-            - "Rank in Class: 34/196 (17%)"
-            - "Related Courses: Robotics, Algorithms, Data Structure, Control Systems, Intermediate Dynamics, Convex Optimization, StochasticControl"
+            - "Related Courses: Robotics, Algorithms, Data Structure, Control Systems, Intermediate Dynamics, Convex Optimization, Stochastic Control"
 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Researcher
-      institution: MacLab, UCLA & NASA Lab, NTU
-      year: 2022-2023
+     - title: Research Assistant
+      institution: Scalable Autonomous Robots (ScalAR) Lab, Penn 
+      year: 2023-2024
       description:
-        - "Advisor: Prof. Tsu‑Chin “T‑C.” Tsao & Prof. Cheng‑Wei Chen"
-        - The Development of a Qt‑Ethercat Software System 
+        - "Advisor: Prof. M. Ani Hsieh"
+        - Learning‑based Control for Flying Quadrotors in Tight Formations  
+
+    - title: Graduate Researcher
+      institution: Pappas Research Group, Penn
+      year: 2023-2024
+      description:
+        - "Advisor: Prof. George J. Pappas"
+        - Multi‑Target Tracking using Conformal Prediction 
         
     - title: Undergraduate Researcher
       institution: Next‑generation Automated Surgical Apparatus (NASA) Lab, NTU
