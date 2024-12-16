@@ -2,7 +2,7 @@
 layout: page
 title: KNODE-DW MPC
 description: Flying Quadrotors in Tight Formations using Learning-based Model Predictive Control
-img: assets/img/KNODEDW.pdf
+img: assets/img/KNODEDW.jpg
 importance: 0
 category: Research Projects
 ---
@@ -21,7 +21,7 @@ Demo video at: [Demo](https://www.youtube.com/watch?v=Hv-0JiVoJGo)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/KNODEDW.pdf" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/KNODEDW.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

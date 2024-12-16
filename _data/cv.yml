@@ -30,7 +30,7 @@
             - "Related Courses: Robotics, Algorithms, Data Structure, Control Systems, Intermediate Dynamics, Convex Optimization, Stochastic Control"
 
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Research Assistant
@@ -53,7 +53,16 @@
       description:
         - "Advisor: Prof. Cheng‑Wei Chen"
         - Design and Evaluation of infant Cardiac Robotic Surgical System (iCROSS)
-        
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: "MEAM 5170: Control and Optimization with Applications in Robotics, Penn"
+      year: 2024
+      description:
+        - "Course Instructor: Prof. Michael Posa"
+        - "Optimal Control, trajectory optimization, nonsmooth mechanics, and walking and running robots"        
 
 - title: Honors and Awards
   type: time_table
