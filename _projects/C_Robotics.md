@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-Directional Drawing
-description: Course project of Robotics
+description: Course project of Robotics, NTU
 img: assets/img/drawn_snoopy.png
 importance: 2
 category: Course Projects

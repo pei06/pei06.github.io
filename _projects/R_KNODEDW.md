@@ -6,10 +6,9 @@ img: assets/img/KNODEDW.jpg
 importance: 0
 category: Research Projects
 ---
-I tackled the challenge of enabling quadrotors to fly in tight formations and navigate in the presence of complex downwash airflows. To accomplish this, I combined first-principle physics models with neural ODEs to accurately model the dynamics of quadrotor downwash. While MPC can be employed to achieve exceptional control performance, it requires a precise model of the system dynamics. As such, I developed a learning-based MPC framework — KNODE-DW MPC —by integrating the hybrid physics and neural ODE model with MPC. 
+I tackled the challenge of enabling quadrotors to fly in tight formations and navigate in the presence of complex downwash airflows. To accomplish this, I combined first-principle physics models with neural ODEs to accurately model the dynamics of quadrotor downwash. While MPC can be employed to achieve exceptional control performance, it requires a precise model of the system dynamics. As such, I developed a learning-based MPC framework — KNODE-DW MPC — by integrating the hybrid physics and neural ODE model with MPC. 
 
-We obtained groundbreaking results with this framework such as a
-40% performance improvement in trajectory tracking compared to nominal MPC in both simulations and physical experiments. I successfully flew two Crazyflie quadrotors in a stacked formation with only 12 cm of vertical separation—the first demonstration of its kind. This work resulted in a submission to ICRA 2025 where I am a co-first author.
+We obtained groundbreaking results with this framework such as a 40% performance improvement in trajectory tracking compared to nominal MPC in both simulations and physical experiments. I successfully flew two Crazyflie quadrotors in a stacked formation with only 12 cm of vertical separation—the first demonstration of its kind. This work resulted in a submission to ICRA 2025 where I am a co-first author.
 
 
 Publication Link: [Submitted to ICRA 2025](https://arxiv.org/abs/2410.09727)
