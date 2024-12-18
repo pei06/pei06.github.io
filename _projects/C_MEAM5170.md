@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Obstacle Avoidance in Dense Environments using
-MPC
+title: Obstacle Avoidance using MPC
 description: "Course project of MEAM 5170: Control and Optimization with Applications in Robotics, Penn"
 img: assets/img/MEAM_5170.png
 importance: 1
@@ -16,7 +15,7 @@ Simulations evaluated the algorithms' task time, collisions, collision percentag
 
 The findings highlight the trade-offs between computational efficiency and robustness in real-time obstacle avoidance. They also underscore the limitations of traditional MPC methods in scaling to dynamic, cluttered environments. This reinforces the need for integrating machine learning techniques into control frameworks to predict obstacle dynamics and enhance computational tractability. Future research could explore cooperative planning approaches and real-time adaptations to improve performance further.
  
- Here is our project report: [Report]({{ site.url }}/assets/pdf/MEAM_5170.pdf)
+Here is our project report: [Report]({{ site.url }}/assets/pdf/MEAM_5170.pdf)
 
 
 <div class="col-sm-12 text-center">
