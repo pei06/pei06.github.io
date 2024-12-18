@@ -4,7 +4,7 @@ title: Obstacle Avoidance in Dense Environments using
 MPC
 description: "Course project of MEAM 5170: Control and Optimization with Applications in Robotics, Penn"
 img: assets/img/MEAM_5170.png
-importance: 0
+importance: 1
 category: Course Projects
 ---
 
