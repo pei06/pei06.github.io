@@ -11,7 +11,7 @@ I tackled the challenge of enabling quadrotors to fly in tight formations and na
 We obtained groundbreaking results with this framework such as a 40% performance improvement in trajectory tracking compared to nominal MPC in both simulations and physical experiments. I successfully flew two Crazyflie quadrotors in a stacked formation with only 12 cm of vertical separation—the first demonstration of its kind. This work resulted in a submission to ICRA 2025 where I am a co-first author.
 
 
-Publication Link: [Submitted to ICRA 2025](https://arxiv.org/abs/2410.09727)
+Publication Link: [ICRA 2025](https://arxiv.org/abs/2410.09727)
 
 Publication PDF: [PDF](../../assets/pdf/KNODEDW.pdf)
 
