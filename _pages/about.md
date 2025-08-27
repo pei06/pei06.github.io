@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: 謝沛諳 | incoming ESE Ph.D. student @ Penn
+subtitle: 謝沛諳 | ESE Ph.D. student @ Penn
 
 profile:
   align: right
@@ -17,5 +17,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Pei-An Hsieh, an incoming Ph.D. student at the GRASP Lab. My research focuses on developing trustworthy, data-driven control strategies for robots. My previous work explored learning-based MPC, uncertainty quantification, and adaptive control. It has been an exciting journey, and I aim to further leverage the accurate reasoning of neural networks to achieve precise robot control while ensuring performance and safety guarantees. My dream is to enable robots to safely assist humans in everyday life. Outside of research, I enjoy playing the violin, practicing calligraphy, and playing soccer.
+I am Pei-An Hsieh, a first-year Ph.D. student advised by Prof. M. Ani Hsieh at the GRASP Lab. My research focuses on developing trustworthy, data-driven control strategies for multi-robot systems. My previous work has explored learning-based model predictive control (MPC), uncertainty quantification, and adaptive control. It has been an exciting journey, and I aim to further harness the reasoning capabilities of neural networks to achieve precise robot control with strong performance and safety guarantees. My long-term goal is to enable robots to safely and efficiently collaborate in real-world environments. Outside of research, I enjoy playing the violin, practicing calligraphy, and playing soccer.
 
