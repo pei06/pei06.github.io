@@ -30,6 +30,7 @@ jobs:
     - name: Install dependencies
       run: |
         rm -rf vendor
+        rm -rf $GEM_HOME/specifications/default/uri*
         bundle install
 
     - name: Setup deploy options
