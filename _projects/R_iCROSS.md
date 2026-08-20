@@ -3,7 +3,7 @@ layout: page
 title: iCROSS
 description: Design and Evaluation of the infant Cardiac Robotic Surgical System (iCROSS)
 img: assets/img/iCROSS.jpg
-importance: 1
+importance: 2
 category: Research Projects
 ---
 The <span class="font-weight-bold">Design and Evaluation of the Infant Cardiac Robotic Surgical System (iCROSS)</span> was the primary research project I was involved in during my undergraduate years. This research focuses on developing a dual-arm surgical robot system to assist infant PDA closure through teleoperation, including mechatronics, system integration, and mechanical and software design. I was responsible for the software of this robotic system which mainly included the following tasks: designing and implementing a software structure that manages joystick-based human-robot interaction and detects self-collision of the surgical robot.
