@@ -1,5 +1,41 @@
 ---
 ---
+
+@article{FlatKNODE,
+  abbr={IROS 2026},
+  bibtex_show={true},
+  title={Flatness-Preserving Residual Learning for Real-Time Tight Quadrotor Formation Flight},
+  author={Hsieh, Pei-An and Yang, Fengjun and Matni, Nikolai and Hsieh, M. Ani},
+  abstract={Quadrotors flying in tight formations are severely affected by turbulent aerodynamic interactions, such as downwash, that can cause catastrophic collisions if left unmodeled. To compensate for these effects, we propose a physics-informed residual dynamics learning framework that captures complex aerodynamic interactions while ensuring the joint multi-quadrotor system remains differentially flat. We leverage this preserved flatness to design a computationally efficient feedback linearization controller that is easily tunable with linear control techniques and cancels aerodynamic disturbances via feedforward compensation. Hardware experiments demonstrate our framework reduces average tracking errors by $31\%$ compared to nominal baselines. Crucially, our lightweight approach matches the tracking performance of state-of-the-art nonlinear model predictive control (NMPC) while requiring an order of magnitude less computation. We are the first to show that stable, tight formation flight can be achieved with under 30 seconds of training data and a 5ms loop rate, unlocking high-fidelity aerodynamic compensation for compute-constrained flight stacks.},
+  journal={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2026},
+  month={September},
+  publisher={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  video={https://www.youtube.com/watch?v=uF26IkRFQMk},
+  html={https://arxiv.org/abs/2607.12275},
+  pdf={FlatKNODE.pdf},
+  selected={true}
+}
+
+
+@article{NNavigation,
+  abbr={arxiv},
+  bibtex_show={true},
+  title={Neural Navigation Functions for Zero-Shot Generalizable Motion Planning},
+  author={Shaffer, Benjamin D. and Hsieh, Pei-An and Kinch, Brooks and Trask, Nathaniel and Hsieh, M. Ani},
+  abstract={We introduce Neural Navigation Functions (Neural-NF), a learned reactive navigation function capable of zero-shot transfer across unseen environment geometries.
+Neural-NF places data-driven adaptation within a structured elliptic planner, where the navigation objective is learned while planner structure is preserved by construction. Specifically, intrinsic Laplacian-derived features are mapped to local PDE coefficients, and solving the resulting boundary value problem produces a globally consistent value function on each target domain. For every admissible learned model, the resulting policy is collision-free, provides monotonic descent and a global minimum at the goal by construction. This admits a linearly-solvable optimal-control interpretation for any parameter setting. Empirically, Neural-NF achieves strong zero-shot transfer across diverse geometries and outperforms learned planners that directly predict the value function by up to a $5\times$ improvement.},
+  journal={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2026},
+  month={},
+  publisher={},
+  video={},
+  html={https://arxiv.org/abs/2606.03756},
+  pdf={},
+  selected={false}
+}
+
+
 @article{L1KNODEDW,
   abbr={ISER 2025},
   bibtex_show={true},
@@ -57,7 +93,7 @@ surgical ligation successfully within one minute.},
   video={https://www.youtube.com/watch?v=RACPwt9ZMvE},
   html={https://ieeexplore.ieee.org/document/9981503?fbclid=IwAR33YrXJFXWVlRh2ZS0LvqCIAdVxeTQPoBSbUfLo0q9ULANQs3EhmmIph8A},
   pdf={Design-and-Evaluation-of-the-infant-Cardiac-Robotic-Surgical-System-(iCROSS).pdf},
-  selected={true}
+  selected={false}
 }
 
 @article{PhysRev.47.777,
