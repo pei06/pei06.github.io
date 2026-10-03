@@ -499,7 +499,7 @@ footer.sticky-bottom {
         max-width: 200px;
       }
       .abbr {
-        min-height: 2rem;
+        height: 2rem;
         margin-bottom: 0.5rem;
         abbr {
           display: inline-block;
@@ -514,13 +514,8 @@ footer.sticky-bottom {
           }
         }
         .award {
-          display: inline-block;
-          margin-top: 0.5rem;
           color: var(--global-theme-color) !important;
-          background-color: var(--global-bg-color) !important;
           border: 1px solid var(--global-theme-color);
-          white-space: normal;
-          text-align: center;
         }
       }
       .title {
