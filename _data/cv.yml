@@ -67,8 +67,11 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Best Student Paper Award, IROS 2026
     - year: 2022
-      items: 
+      items:
         - Dean’s List Award, Department of Electrical Engineering, NTU
     
 

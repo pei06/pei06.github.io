@@ -9,6 +9,8 @@ category: Research Projects
 
 By leveraging differential flatness, we propose Learned FBL, a framework that enables a team of quadrotors to fly in tight formations while using an order of magnitude less computational cost than the state-of-the-art KNODE-DW MPC.
 
+🏆 **Winner of the IROS 2026 Best Student Paper Award**
+
 Publication Link: [IROS 2026](https://arxiv.org/abs/2607.12275)
 
 Publication PDF: [PDF](../../assets/pdf/Learned_FBL.pdf)
